@@ -1,5 +1,8 @@
 _repo: Trif-and-Trixy-A-story-of-a-dreadfully-delightful-little-girl-and-her-adoring-and-tormented-p__51788
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51788-h/images/cover.jpg
 creator:
   author:
     agent_name: Habberton, John
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1427
     wikipedia: http://en.wikipedia.org/wiki/John_Habberton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51788#Trif-and-Trixy-A-story-of-a-dreadfully-delightful-little-girl-and-her-adoring-and-tormented-p_
 gutenberg_issued: '2016-04-18'
 gutenberg_type: Text
 identifiers:
