@@ -1,0 +1,27 @@
+_repo: Trif-and-Trixy-A-story-of-a-dreadfully-delightful-little-girl-and-her-adoring-and-tormented-p__51788
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Habberton, John
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '1427'
+    url: http://www.gutenberg.org/2009/agents/1427
+    wikipedia: http://en.wikipedia.org/wiki/John_Habberton
+description: ''
+gutenberg_issued: '2016-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51788'
+  lccn: '06046671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "Trif and Trixy\r\nA story of a dreadfully delightful little girl and her adoring\
+  \ and tormented parents, relations, and friends"
+url: http://www.gutenberg.org/ebooks/51788
